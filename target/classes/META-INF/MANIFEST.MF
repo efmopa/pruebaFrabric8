@@ -1,0 +1,100 @@
+Manifest-Version: 1.0
+Built-By: Efrain Molano Parra
+Build-Jdk: 18.0.1
+Class-Path: lib/docx4j-ImportXHTML-3.3.1.jar lib/xhtmlrenderer-3.0.0.jar
+  lib/itext-2.1.7.jar lib/docx4j-3.3.1.jar lib/jaxb-svg11-1.0.2.jar lib/
+ mbassador-1.2.4.2.jar lib/log4j-1.2.17.redhat-3.jar lib/commons-lang3-3
+ .12.0.jar lib/commons-codec-1.15.0.redhat-00001.jar lib/httpclient-4.5.
+ 13.redhat-00002.jar lib/httpcore-4.4.14.redhat-00001.jar lib/commons-lo
+ gging-1.2.0.redhat-3.jar lib/xmlgraphics-commons-2.1.jar lib/avalon-fra
+ mework-api-4.3.1.jar lib/avalon-framework-impl-4.3.1.jar lib/xalan-2.7.
+ 2.jar lib/serializer-2.7.2.jar lib/wmf2svg-0.9.8.jar lib/antlr-runtime-
+ 3.5.2.jar lib/stringtemplate-3.2.1.jar lib/lorem-2.0.jar lib/junit-4.13
+ .2.jar lib/hamcrest-core-2.2.jar lib/modeloCanonico-0.0.1-20220504.0130
+ 59-155.jar lib/jackson-databind-2.12.1.jar lib/jackson-core-2.12.1.redh
+ at-00002.jar lib/javax.persistence-api-2.2.jar lib/jackson-annotations-
+ 2.12.1.redhat-00002.jar lib/gson-2.8.6.jar lib/json-simple-1.1.jar lib/
+ hibernate-core-5.3.20.Final-redhat-00001.jar lib/jboss-logging-3.4.1.Fi
+ nal.jar lib/javassist-3.23.2-GA.jar lib/byte-buddy-1.10.20.jar lib/antl
+ r-2.7.7.jar lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar lib/jand
+ ex-2.0.5.Final.jar lib/javax.activation-api-1.2.0.jar lib/dom4j-2.1.3.j
+ ar lib/hibernate-commons-annotations-5.0.5.Final-redhat-00002.jar lib/j
+ axb-api-2.3.0.redhat-00003.jar lib/jaxb-runtime-2.3.3.jar lib/txw2-2.3.
+ 3.jar lib/istack-commons-runtime-3.0.11.jar lib/modeloTransversal-0.0.1
+ -20220504.032521-137.jar lib/spring-boot-starter-data-redis-2.3.9.RELEA
+ SE.jar lib/spring-data-redis-2.3.7.RELEASE.jar lib/spring-data-keyvalue
+ -2.3.7.RELEASE.jar lib/spring-oxm-5.2.13.RELEASE.jar lib/spring-context
+ -support-5.2.13.RELEASE.jar lib/lettuce-core-5.3.6.RELEASE.jar lib/nett
+ y-common-4.1.63.Final-redhat-00001.jar lib/netty-handler-4.1.63.Final-r
+ edhat-00001.jar lib/netty-resolver-4.1.63.Final-redhat-00001.jar lib/ne
+ tty-buffer-4.1.63.Final-redhat-00001.jar lib/netty-codec-4.1.63.Final-r
+ edhat-00001.jar lib/netty-transport-4.1.63.Final-redhat-00001.jar lib/r
+ eactor-core-3.3.14.RELEASE.jar lib/reactive-streams-1.0.3.jar lib/swagg
+ er-annotations-1.5.20.jar lib/commons-csv-1.8.jar lib/commons-io-2.6.ja
+ r lib/spring-boot-starter-data-jpa-2.3.9.RELEASE.jar lib/spring-boot-st
+ arter-aop-2.3.9.RELEASE.jar lib/aspectjweaver-1.9.6.jar lib/spring-boot
+ -starter-jdbc-2.3.9.RELEASE.jar lib/HikariCP-3.4.5.jar lib/spring-jdbc-
+ 5.2.13.RELEASE.jar lib/jakarta.transaction-api-1.3.3.jar lib/jakarta.pe
+ rsistence-api-2.2.3.jar lib/spring-data-jpa-2.3.7.RELEASE.jar lib/sprin
+ g-data-commons-2.3.7.RELEASE.jar lib/spring-orm-5.2.13.RELEASE.jar lib/
+ spring-context-5.2.13.RELEASE.jar lib/spring-tx-5.2.13.RELEASE.jar lib/
+ spring-beans-5.2.13.RELEASE.jar lib/spring-aspects-5.2.13.RELEASE.jar l
+ ib/springfox-swagger2-2.9.2.jar lib/swagger-models-1.5.20.jar lib/sprin
+ gfox-spi-2.9.2.jar lib/springfox-core-2.9.2.jar lib/springfox-schema-2.
+ 9.2.jar lib/springfox-swagger-common-2.9.2.jar lib/springfox-spring-web
+ -2.9.2.jar lib/guava-27.1-jre.jar lib/failureaccess-1.0.1.jar lib/liste
+ nablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar lib/jsr305-3.
+ 0.2.jar lib/checker-qual-2.5.2.jar lib/error_prone_annotations-2.2.0.ja
+ r lib/j2objc-annotations-1.1.jar lib/animal-sniffer-annotations-1.17.ja
+ r lib/classmate-1.5.1.jar lib/slf4j-api-1.7.30.jar lib/spring-plugin-co
+ re-1.2.0.RELEASE.jar lib/spring-plugin-metadata-1.2.0.RELEASE.jar lib/m
+ apstruct-1.2.0.Final.jar lib/springfox-swagger-ui-2.9.2.jar lib/springf
+ ox-bean-validators-2.9.2.jar lib/jjwt-0.9.1.jar lib/spring-boot-starter
+ -web-2.3.9.RELEASE.jar lib/spring-boot-starter-2.3.9.RELEASE.jar lib/sp
+ ring-boot-starter-logging-2.3.9.RELEASE.jar lib/logback-classic-1.2.3.j
+ ar lib/logback-core-1.2.3.jar lib/log4j-to-slf4j-2.14.0.redhat-00004.ja
+ r lib/log4j-api-2.14.0.redhat-00004.jar lib/jul-to-slf4j-1.7.30.jar lib
+ /snakeyaml-1.26.0.redhat-00002.jar lib/spring-boot-starter-json-2.3.9.R
+ ELEASE.jar lib/jackson-datatype-jdk8-2.12.1.redhat-00002.jar lib/jackso
+ n-datatype-jsr310-2.12.1.redhat-00002.jar lib/jackson-module-parameter-
+ names-2.12.1.redhat-00002.jar lib/spring-boot-starter-tomcat-2.3.9.RELE
+ ASE.jar lib/tomcat-embed-core-9.0.36.redhat-00010.jar lib/jakarta.el-3.
+ 0.3.jar lib/tomcat-embed-websocket-9.0.36.redhat-00010.jar lib/spring-w
+ eb-5.2.13.RELEASE.jar lib/spring-webmvc-5.2.13.RELEASE.jar lib/spring-e
+ xpression-5.2.13.RELEASE.jar lib/mssql-jdbc-7.4.1.jre8.jar lib/lombok-1
+ .18.18.jar lib/jakarta.xml.bind-api-2.3.3.jar lib/jakarta.activation-ap
+ i-1.2.2.jar lib/hamcrest-2.2.jar lib/spring-core-5.2.13.RELEASE.jar lib
+ /spring-jcl-5.2.13.RELEASE.jar lib/spring-boot-devtools-2.3.9.RELEASE.j
+ ar lib/spring-boot-2.3.9.RELEASE.jar lib/spring-boot-starter-security-2
+ .3.9.RELEASE.jar lib/spring-aop-5.2.13.RELEASE.jar lib/spring-security-
+ config-5.3.8.RELEASE.jar lib/spring-security-core-5.3.8.RELEASE.jar lib
+ /spring-security-web-5.3.8.RELEASE.jar lib/spring-boot-starter-actuator
+ -2.3.9.RELEASE.jar lib/spring-boot-actuator-autoconfigure-2.3.9.RELEASE
+ .jar lib/spring-boot-actuator-2.3.9.RELEASE.jar lib/micrometer-core-1.5
+ .11.jar lib/HdrHistogram-2.1.12.jar lib/LatencyUtils-2.0.3.jar lib/spri
+ ng-boot-autoconfigure-2.3.9.RELEASE.jar lib/jaxrs-ri-2.30.1.jar lib/jer
+ sey-hk2-2.30.1.jar lib/hk2-locator-2.6.1.jar lib/aopalliance-repackaged
+ -2.6.1.jar lib/hk2-api-2.6.1.jar lib/hk2-utils-2.6.1.jar lib/jersey-com
+ mon-2.30.1.jar lib/osgi-resource-locator-1.0.3.jar lib/jakarta.activati
+ on-1.2.2.jar lib/jersey-media-jaxb-2.30.1.jar lib/jersey-media-json-bin
+ ding-2.30.1.jar lib/jakarta.json-1.1.5.jar lib/yasson-1.0.3.jar lib/jak
+ arta.json.bind-api-1.0.2.jar lib/jakarta.json-api-1.1.6.jar lib/jersey-
+ client-2.30.1.jar lib/jersey-container-servlet-core-2.30.1.jar lib/jers
+ ey-container-servlet-2.30.1.jar lib/jersey-media-sse-2.30.1.jar lib/jer
+ sey-server-2.30.1.jar lib/jakarta.ws.rs-api-2.1.6.jar lib/jakarta.annot
+ ation-api-1.3.5.jar lib/jakarta.inject-2.6.1.jar lib/jakarta.validation
+ -api-2.0.2.jar lib/modelmapper-2.3.2.jar lib/apiguardian-api-1.1.0.jar 
+ lib/opentest4j-1.2.0.jar lib/junit-platform-commons-1.6.3.jar lib/junit
+ -vintage-engine-5.6.3.jar lib/junit-platform-engine-1.6.3.jar lib/fr.op
+ ensagres.xdocreport.converter.docx.xwpf-2.0.1.jar lib/fr.opensagres.xdo
+ creport.converter-2.0.1.jar lib/fr.opensagres.xdocreport.core-2.0.1.jar
+  lib/fr.opensagres.poi.xwpf.converter.pdf-2.0.1.jar lib/fr.opensagres.p
+ oi.xwpf.converter.core-2.0.1.jar lib/poi-ooxml-3.15-beta2.jar lib/poi-3
+ .15-beta2.jar lib/curvesapi-1.04.jar lib/ooxml-schemas-1.3.jar lib/xmlb
+ eans-2.3.0.jar lib/stax-api-1.0.1.jar lib/fr.opensagres.xdocreport.itex
+ t.extension-2.0.1.jar lib/fr.opensagres.poi.xwpf.converter.xhtml-2.0.1.
+ jar
+Main-Class: co.com.invima.maestro.service.srvdocumento.SrvDocumentoAppli
+ cation
+Created-By: Maven Integration for Eclipse
+
